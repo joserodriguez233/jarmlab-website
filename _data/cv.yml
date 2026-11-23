@@ -81,8 +81,15 @@ cv:
           - Applied Design-of-Experiments approaches to optimize reactor design of LAMIMS, a
             high-throughput screening method for the characterization of heterogeneous catalysts.
 
+      - company: University of Puerto Rico Río Piedras
+        position: Undergraduate Research Assistant
+        location: San Juan, PR
+        start_date: 1999
+        end_date: 2001
+        summary: "Laboratory of Osvaldo Rosario, Ph.D."
+
     Current Funding:
-      - company: National Institutes of Health
+      - company: "National Institutes of Health (R16GM159796)"
         position: Principal Investigator
         start_date: 2027
         end_date: 2030
@@ -95,7 +102,7 @@ cv:
         end_date: 2026
         summary: "Genomic Logic Underlying Adaptive Morphological Divergence — $4,000,000"
 
-      - company: National Institutes of Health SC1 GM127231
+      - company: "National Institutes of Health (SC1 GM127231)"
         position: Principal Investigator
         start_date: 2018
         end_date: 2025
@@ -109,9 +116,15 @@ cv:
 
       - company: University of Puerto Rico – FIPI
         position: Principal Investigator
-        start_date: 2016
+        start_date: 2018
         end_date: 2020
-        summary: "Exploring the DNA binding preferences of human transcription factors — $40,000 (two awards)"
+        summary: "Exploring the DNA binding preferences of human transcription factors — $20,000"
+
+      - company: University of Puerto Rico – FIPI
+        position: Principal Investigator
+        start_date: 2016
+        end_date: 2018
+        summary: "Exploring the DNA binding preferences of human transcription factors — $20,000"
 
     Awards and Honors:
       - title: 100 Inspiring Hispanic/Latinx Scientists in America
@@ -204,6 +217,49 @@ cv:
         start_date: 2010
         end_date: 2011
 
+    Mentoring and Training:
+      - name: "Current Graduate Students"
+        summary: "Oswaldo L. Echevarría-Bonilla (PhD candidate) · Rosalba Velazquez Roig (PhD candidate, NIH-RISE)"
+
+      - name: "Current Undergraduate Students"
+        summary: "Abdiel Báez González · Bianca N. Mercado Then · Diandra Frías-Miranda · Nichole D. Rodriguez Cornier"
+
+      - name: "Graduate Student Alumni"
+        summary: "Jessica M. Rodríguez Ríos, PhD (May 2025) · Diego A. Rosado-Tristani, PhD (Mar 2025) · Edwin G. Peña Martínez, PhD (Mar 2025) · Anthony R. Rivera-Barreto, PhD (Dec 2022) · Emmanuel A. Carrasquillo-Dones, PhD (Dec 2022) · Alexander Castro-Martínez, MSc (May 2021)"
+
+      - name: "Postbaccalaureate Alumni"
+        summary: "Lara V. Ballester-Torres · Jeremy Lopez Torres · Derek Santiago Ferrer"
+
+      - name: "Undergraduate Research Alumni"
+        summary: >
+          Adriana C. Barreiro Rosario · Alejandro Rivera Madera · Andrea N. Rivera Rosario ·
+          Brenda I. Cesar-Hernandez · Camilla A. Pérez Vicente · Diego A. Pomales Matos ·
+          Emili Rosado Rodríguez · Emily N. Duclós · Félix Rullán López de Victoria ·
+          Gabriela Alicea Sanchez · Jean Messon Bird · Jeancarlos Rivera Del Valle ·
+          Jeriel Dumeng Rodríguez · Jessica M. Rodríguez Ríos · Kevin Maymi Quintana ·
+          Laura M. Rodríguez Bonilla · Leandro Sanabria-Alberto · Lionel Pagan Cruz ·
+          Luis D. García Sánchez · Luisa M. Mendez-Román · Nicole E Muñoz Páez ·
+          Paola A. Colón Cruz · Rocío del Mar Avilés Mercado · Sebastian F. Estarellas-Cobian ·
+          Stephanie N. Sánchez Meléndez · Thomas A Vazquez Suarez · Valeria A. Santa-Meléndez ·
+          Victoria I. Pinto Sanchez · Yeriel Avellanet Crespo
+
+      - company: "NIH-RISE, NIH-MARC, NSF PR-LSAMP, NSF PR-CLIMB Programs"
+        position: Faculty Mentor
+        start_date: 2016
+        summary: University of Puerto Rico Río Piedras
+
+      - company: "Minority Science and Engineering Improvement Program"
+        position: Faculty Mentor
+        start_date: 2014
+        end_date: 2015
+        summary: University of Wisconsin-Madison
+
+      - company: "Khorana and Bose Program (winstepforward.org)"
+        position: Research Mentor
+        start_date: 2013
+        end_date: 2016
+        summary: "University of Wisconsin-Madison — mentored five Khorana Scholars during summer research experiences"
+
     Service:
       - company: American Society for Biochemistry and Molecular Biology
         position: "Member, Maximizing Access Committee"
@@ -235,10 +291,29 @@ cv:
         start_date: 2014
         end_date: 2016
 
+      - company: Multiple Journals
+        position: Ad Hoc Peer Reviewer
+        start_date: 2016
+        summary: >
+          ACS Omega · Biochimica et Biophysica Acta – Gene Regulatory Mechanisms ·
+          Journal of Biological Chemistry · Bioscience Reports · Genetics in Medicine ·
+          Nature Communications
+
+      - company: "ASBMB — Interactive Mentoring Activities for Grantsmanship Enhancement (IMAGE)"
+        position: Participant
+        start_date: 2023
+        end_date: 2023
+        summary: Washington, DC
+
       - company: Madison Area Technical College
         position: "Panelist, Annual Latino Youth Career and College Fair"
         start_date: 2014
         end_date: 2016
+
+      - company: University of Wisconsin-Madison
+        position: "Volunteer, 10th Annual UW-Madison Science Expedition"
+        start_date: 2012
+        end_date: 2012
 
       - company: Universidad Central del Caribe
         position: "Invited Speaker — Breaking Barriers Through Collaboration"
@@ -330,6 +405,13 @@ cv:
         authors:
           - Rodríguez-Martínez JA
         publisher: "Keynote, Undergraduate Research Symposium, University of Puerto Rico Aguadilla, PR"
+        releaseDate: 2021-03-25
+        summary: Invited
+
+      - title: DNA-binding Properties of Transcription Factors
+        authors:
+          - Rodríguez-Martínez JA
+        publisher: "University of Puerto Rico Arecibo, Arecibo, PR"
         releaseDate: 2021-03-25
         summary: Invited
 
