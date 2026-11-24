@@ -31,430 +31,224 @@ cv:
         end_date: 2001
 
     Academic Positions:
-      - company: University of Puerto Rico Río Piedras
-        position: Associate Professor (Tenured)
-        location: San Juan, PR
-        start_date: 2022
-        summary: Department of Biology
+      - label: "Associate Professor (Tenured), University of Puerto Rico Río Piedras"
+        details: "Department of Biology, San Juan, PR (2022–present)"
 
-      - company: University of Puerto Rico Río Piedras
-        position: Assistant Professor
-        location: San Juan, PR
-        start_date: 2016
-        end_date: 2022
-        summary: Department of Biology
+      - label: "Assistant Professor, University of Puerto Rico Río Piedras"
+        details: "Department of Biology, San Juan, PR (2016–2022)"
 
-      - company: University of Wisconsin-Madison
-        position: Postdoctoral Fellow
-        location: Madison, WI
-        start_date: 2010
-        end_date: 2016
-        summary: "Laboratory of Aseem Z. Ansari, Ph.D. — Department of Biochemistry"
-        highlights:
-          - Developed high-throughput assays based on next-generation DNA sequencing to assess
-            the DNA and RNA binding preferences of transcription factors, RNA-binding proteins,
-            and small molecules.
+      - label: "Postdoctoral Fellow, University of Wisconsin-Madison"
+        details: "Laboratory of Aseem Z. Ansari, Ph.D. — Department of Biochemistry, Madison, WI (2010–2016)"
 
-      - company: University of Puerto Rico Río Piedras
-        position: Graduate Research Assistant
-        location: San Juan, PR
-        start_date: 2004
-        end_date: 2009
-        summary: "Laboratory of Kai Griebenow, Dr. rer. nat."
-        highlights:
-          - Researched the effects of PEGylation on protein in vitro stability for biomedical
-            applications; characterized enzymatic activity, protein stability, protein structure,
-            and structural dynamics.
+      - label: "Graduate Research Assistant, University of Puerto Rico Río Piedras"
+        details: "Laboratory of Kai Griebenow, Dr. rer. nat., San Juan, PR (2004–2009)"
 
-      - company: University of Puerto Rico Río Piedras
-        position: Research Assistant
-        location: San Juan, PR
-        start_date: 2002
-        end_date: 2004
-        summary: "Laboratory of Eugene S. Smotkin, Ph.D."
-        highlights:
-          - Applied Design-of-Experiments approaches to optimize reactor design of LAMIMS, a
-            high-throughput screening method for the characterization of heterogeneous catalysts.
+      - label: "Research Assistant, University of Puerto Rico Río Piedras"
+        details: "Laboratory of Eugene S. Smotkin, Ph.D., San Juan, PR (2002–2004)"
 
-      - company: University of Puerto Rico Río Piedras
-        position: Undergraduate Research Assistant
-        location: San Juan, PR
-        start_date: 1999
-        end_date: 2001
-        summary: "Laboratory of Osvaldo Rosario, Ph.D."
+      - label: "Undergraduate Research Assistant, University of Puerto Rico Río Piedras"
+        details: "Laboratory of Osvaldo Rosario, Ph.D., San Juan, PR (1999–2001)"
 
     Current Funding:
-      - company: "National Institutes of Health (R16GM159796)"
-        position: Principal Investigator
-        start_date: 2027
-        end_date: 2030
-        summary: "Decoding the role of non-coding mutations in gene regulation in congenital heart defects — $584,127"
+      - label: "NIH R16GM159796 — Principal Investigator (2027–2030)"
+        details: "Decoding the role of non-coding mutations in gene regulation in congenital heart defects — $584,127"
 
     Completed Funding:
-      - company: National Science Foundation #1736026
-        position: Senior Personnel
-        start_date: 2017
-        end_date: 2026
-        summary: "Genomic Logic Underlying Adaptive Morphological Divergence — $4,000,000"
+      - label: "NSF #1736026 — Senior Personnel (2017–2026)"
+        details: "Genomic Logic Underlying Adaptive Morphological Divergence — $4,000,000"
 
-      - company: "National Institutes of Health (SC1 GM127231)"
-        position: Principal Investigator
-        start_date: 2018
-        end_date: 2025
-        summary: "Uncovering the DNA recognition rules of cardiac transcription factors — $1,372,400"
+      - label: "NIH SC1 GM127231 — Principal Investigator (2018–2025)"
+        details: "Uncovering the DNA recognition rules of cardiac transcription factors — $1,372,400"
 
-      - company: Puerto Rico Science, Technology & Research Trust
-        position: Principal Investigator
-        start_date: 2020
-        end_date: 2022
-        summary: "Rapid generation of high-affinity reagents for the point-of-care diagnostic and the study of SARSCoV-2 virus — $100,000"
+      - label: "Puerto Rico Science, Technology & Research Trust — Principal Investigator (2020–2022)"
+        details: "Rapid generation of high-affinity reagents for the point-of-care diagnostic and the study of SARSCoV-2 virus — $100,000"
 
-      - company: University of Puerto Rico – FIPI
-        position: Principal Investigator
-        start_date: 2018
-        end_date: 2020
-        summary: "Exploring the DNA binding preferences of human transcription factors — $20,000"
+      - label: "University of Puerto Rico – FIPI — Principal Investigator (2018–2020)"
+        details: "Exploring the DNA binding preferences of human transcription factors — $20,000"
 
-      - company: University of Puerto Rico – FIPI
-        position: Principal Investigator
-        start_date: 2016
-        end_date: 2018
-        summary: "Exploring the DNA binding preferences of human transcription factors — $20,000"
+      - label: "University of Puerto Rico – FIPI — Principal Investigator (2016–2018)"
+        details: "Exploring the DNA binding preferences of human transcription factors — $20,000"
 
     Awards and Honors:
-      - name: 100 Inspiring Hispanic/Latinx Scientists in America
-        date: 2020
-        highlights:
-          - Cell Mentor, Cell Press
+      - label: "100 Inspiring Hispanic/Latinx Scientists in America (2020)"
+        details: "Cell Mentor, Cell Press"
 
-      - name: SACNAS Leadership Institute
-        date: 2014
-        highlights:
-          - SACNAS
+      - label: "SACNAS Leadership Institute (2014)"
+        details: "SACNAS"
 
-      - name: NHLBI Research Supplement to Promote Diversity
-        date: 2012
-        highlights:
-          - "National Heart, Lung, and Blood Institute (2012–2015)"
+      - label: "NHLBI Research Supplement to Promote Diversity (2012–2015)"
+        details: "National Heart, Lung, and Blood Institute"
 
-      - name: Puerto Rico Young Scientist Award
-        date: 2011
+      - label: "Puerto Rico Young Scientist Award (2011)"
+        details: ""
 
-      - name: NIH Genome Sciences Training Program Fellow
-        date: 2010
-        highlights:
-          - "National Institutes of Health (2010–2013)"
+      - label: "NIH Genome Sciences Training Program Fellow (2010–2013)"
+        details: "National Institutes of Health"
 
-      - name: NIH-RISE Doctoral Fellow
-        date: 2006
-        highlights:
-          - "National Institutes of Health (2006–2009)"
+      - label: "NIH-RISE Doctoral Fellow (2006–2009)"
+        details: "National Institutes of Health"
 
-      - name: U.S. Department of Education GAAN Fellow
-        date: 2002
-        highlights:
-          - "U.S. Department of Education (2002–2005)"
+      - label: "U.S. Department of Education GAAN Fellow (2002–2005)"
+        details: "U.S. Department of Education"
 
-      - name: Merck Index Award
-        date: 2001
+      - label: "Merck Index Award (2001)"
+        details: ""
 
-      - name: NIH-MARC Undergraduate Fellow
-        date: 2000
-        highlights:
-          - "National Institutes of Health (2000–2001)"
+      - label: "NIH-MARC Undergraduate Fellow (2000–2001)"
+        details: "National Institutes of Health"
 
-      - name: PR LS-AMP Undergraduate Fellow
-        date: 1999
-        highlights:
-          - "1999–2000"
+      - label: "PR LS-AMP Undergraduate Fellow (1999–2000)"
+        details: ""
 
     Patents:
-      - title: "Methods of Designing Programmable Inducible Promoters"
-        authors:
-          - Raman R
-          - Ansari AZ
-          - Liu XY
-          - "**Rodríguez-Martínez JA**"
-        journal: "US Patent App. 20,190/062,730"
-        date: 2019
+      - label: "Methods of Designing Programmable Inducible Promoters (2019)"
+        details: "Raman R, Ansari AZ, Liu XY, Rodríguez-Martínez JA — US Patent App. 20,190/062,730"
 
     Teaching:
-      - company: University of Puerto Rico Río Piedras
-        position: "Principles of Molecular and Cellular Biology I (Graduate)"
-        start_date: 2017
+      - label: "Principles of Molecular and Cellular Biology I (Graduate)"
+        details: "University of Puerto Rico Río Piedras (2017–present)"
 
-      - company: University of Puerto Rico Río Piedras
-        position: Biochemistry of the Cell
-        start_date: 2017
+      - label: "Biochemistry of the Cell"
+        details: "University of Puerto Rico Río Piedras (2017–present)"
 
-      - company: University of Puerto Rico Río Piedras
-        position: Principles of Biomedical Research
-        start_date: 2021
-        end_date: 2022
-        summary: "Fall 2022, Spring 2021"
+      - label: "Principles of Biomedical Research"
+        details: "University of Puerto Rico Río Piedras (Fall 2022, Spring 2021)"
 
-      - company: University of Puerto Rico Río Piedras
-        position: Analysis of Biomolecules
-        start_date: 2020
-        end_date: 2020
-        summary: Spring 2020
+      - label: "Analysis of Biomolecules"
+        details: "University of Puerto Rico Río Piedras (Spring 2020)"
 
-      - company: University of Puerto Rico Río Piedras
-        position: Molecular Genetics
-        start_date: 2016
-        end_date: 2016
-        summary: Fall 2016
+      - label: "Molecular Genetics"
+        details: "University of Puerto Rico Río Piedras (Fall 2016)"
 
-      - company: University of Wisconsin-Madison
-        position: "Seminar Instructor, Biochemical Methods (BIOCHEM 551)"
-        start_date: 2011
-        end_date: 2011
+      - label: "Seminar Instructor, Biochemical Methods (BIOCHEM 551)"
+        details: "University of Wisconsin-Madison (2011)"
 
-      - company: University of Wisconsin-Madison
-        position: "Guest Lecturer, DNA Sequencing Technologies (BIOCHEM 660)"
-        start_date: 2010
-        end_date: 2011
+      - label: "Guest Lecturer, DNA Sequencing Technologies (BIOCHEM 660)"
+        details: "University of Wisconsin-Madison (2010–2011)"
 
     Mentoring and Training:
-      - name: "Current Graduate Students"
-        summary: "Oswaldo L. Echevarría-Bonilla (PhD candidate) · Rosalba Velazquez Roig (PhD candidate, NIH-RISE)"
+      - label: "Current Graduate Students"
+        details: "Oswaldo L. Echevarría-Bonilla (PhD candidate) · Rosalba Velazquez Roig (PhD candidate, NIH-RISE)"
 
-      - name: "Current Undergraduate Students"
-        summary: "Abdiel Báez González · Bianca N. Mercado Then · Diandra Frías-Miranda · Nichole D. Rodriguez Cornier"
+      - label: "Current Undergraduate Students"
+        details: "Abdiel Báez González · Bianca N. Mercado Then · Diandra Frías-Miranda · Nichole D. Rodriguez Cornier"
 
-      - name: "Graduate Student Alumni"
-        summary: "Jessica M. Rodríguez Ríos, PhD (May 2025) · Diego A. Rosado-Tristani, PhD (Mar 2025) · Edwin G. Peña Martínez, PhD (Mar 2025) · Anthony R. Rivera-Barreto, PhD (Dec 2022) · Emmanuel A. Carrasquillo-Dones, PhD (Dec 2022) · Alexander Castro-Martínez, MSc (May 2021)"
+      - label: "Graduate Student Alumni"
+        details: "Jessica M. Rodríguez Ríos, PhD (May 2025) · Diego A. Rosado-Tristani, PhD (Mar 2025) · Edwin G. Peña Martínez, PhD (Mar 2025) · Anthony R. Rivera-Barreto, PhD (Dec 2022) · Emmanuel A. Carrasquillo-Dones, PhD (Dec 2022) · Alexander Castro-Martínez, MSc (May 2021)"
 
-      - name: "Postbaccalaureate Alumni"
-        summary: "Lara V. Ballester-Torres · Jeremy Lopez Torres · Derek Santiago Ferrer"
+      - label: "Postbaccalaureate Alumni"
+        details: "Lara V. Ballester-Torres · Jeremy Lopez Torres · Derek Santiago Ferrer"
 
-      - name: "Undergraduate Research Alumni"
-        summary: >
-          Adriana C. Barreiro Rosario · Alejandro Rivera Madera · Andrea N. Rivera Rosario ·
-          Brenda I. Cesar-Hernandez · Camilla A. Pérez Vicente · Diego A. Pomales Matos ·
-          Emili Rosado Rodríguez · Emily N. Duclós · Félix Rullán López de Victoria ·
-          Gabriela Alicea Sanchez · Jean Messon Bird · Jeancarlos Rivera Del Valle ·
-          Jeriel Dumeng Rodríguez · Jessica M. Rodríguez Ríos · Kevin Maymi Quintana ·
-          Laura M. Rodríguez Bonilla · Leandro Sanabria-Alberto · Lionel Pagan Cruz ·
-          Luis D. García Sánchez · Luisa M. Mendez-Román · Nicole E Muñoz Páez ·
-          Paola A. Colón Cruz · Rocío del Mar Avilés Mercado · Sebastian F. Estarellas-Cobian ·
-          Stephanie N. Sánchez Meléndez · Thomas A Vazquez Suarez · Valeria A. Santa-Meléndez ·
-          Victoria I. Pinto Sanchez · Yeriel Avellanet Crespo
+      - label: "Undergraduate Research Alumni"
+        details: "Adriana C. Barreiro Rosario · Alejandro Rivera Madera · Andrea N. Rivera Rosario · Brenda I. Cesar-Hernandez · Camilla A. Pérez Vicente · Diego A. Pomales Matos · Emili Rosado Rodríguez · Emily N. Duclós · Félix Rullán López de Victoria · Gabriela Alicea Sanchez · Jean Messon Bird · Jeancarlos Rivera Del Valle · Jeriel Dumeng Rodríguez · Jessica M. Rodríguez Ríos · Kevin Maymi Quintana · Laura M. Rodríguez Bonilla · Leandro Sanabria-Alberto · Lionel Pagan Cruz · Luis D. García Sánchez · Luisa M. Mendez-Román · Nicole E Muñoz Páez · Paola A. Colón Cruz · Rocío del Mar Avilés Mercado · Sebastian F. Estarellas-Cobian · Stephanie N. Sánchez Meléndez · Thomas A Vazquez Suarez · Valeria A. Santa-Meléndez · Victoria I. Pinto Sanchez · Yeriel Avellanet Crespo"
 
-      - name: "Faculty Mentor — NIH-RISE, NIH-MARC, NSF PR-LSAMP, NSF PR-CLIMB Programs"
-        start_date: 2016
-        summary: University of Puerto Rico Río Piedras
+      - label: "Faculty Mentor — NIH-RISE, NIH-MARC, NSF PR-LSAMP, NSF PR-CLIMB Programs (2016–present)"
+        details: "University of Puerto Rico Río Piedras"
 
-      - name: "Faculty Mentor — Minority Science and Engineering Improvement Program"
-        start_date: 2014
-        end_date: 2015
-        summary: University of Wisconsin-Madison
+      - label: "Faculty Mentor — Minority Science and Engineering Improvement Program (2014–2015)"
+        details: "University of Wisconsin-Madison"
 
-      - name: "Research Mentor — Khorana and Bose Program (winstepforward.org)"
-        start_date: 2013
-        end_date: 2016
-        summary: "University of Wisconsin-Madison — mentored five Khorana Scholars during summer research experiences"
+      - label: "Research Mentor — Khorana and Bose Program, winstepforward.org (2013–2016)"
+        details: "University of Wisconsin-Madison — mentored five Khorana Scholars during summer research experiences"
 
     Service:
-      - company: American Society for Biochemistry and Molecular Biology
-        position: "Member, Maximizing Access Committee"
-        start_date: 2022
-        highlights:
-          - "Reviewer — Marion B. Sewer Distinguished Scholarship for Undergraduates"
-          - "Reviewer — Graduate Student Diversity, Equity, and Inclusion Travel Award"
-          - "Member — Virtual Events Taskforce"
+      - label: "ASBMB — Member, Maximizing Access Committee (2022–present)"
+        details: "Reviewer: Marion B. Sewer Distinguished Scholarship for Undergraduates; Graduate Student DEI Travel Award; Member: Virtual Events Taskforce"
 
-      - company: University of Puerto Rico Río Piedras
-        position: "Studies Director, Honor's Program, College of Natural Sciences"
-        start_date: 2021
+      - label: "UPR Río Piedras — Studies Director, Honor's Program, College of Natural Sciences (2021–present)"
+        details: ""
 
-      - company: University of Puerto Rico Río Piedras
-        position: "Advisor, ASBMB Student Chapter"
-        start_date: 2018
+      - label: "UPR Río Piedras — Advisor, ASBMB Student Chapter (2018–present)"
+        details: ""
 
-      - company: Journal of Biological Chemistry
-        position: "Member, Early Career Reviewer Board"
-        start_date: 2020
+      - label: "Journal of Biological Chemistry — Member, Early Career Reviewer Board (2020–present)"
+        details: ""
 
-      - company: University of Puerto Rico Río Piedras
-        position: "Member, Academic Affairs Committee, Department of Biology"
-        start_date: 2016
-        summary: "2016–2020; 2023–present"
+      - label: "UPR Río Piedras — Member, Academic Affairs Committee, Department of Biology"
+        details: "2016–2020; 2023–present"
 
-      - company: SACNAS National Conference
-        position: Abstract Reviewer
-        start_date: 2014
-        end_date: 2016
+      - label: "SACNAS National Conference — Abstract Reviewer (2014–2016)"
+        details: ""
 
-      - company: Multiple Journals
-        position: Ad Hoc Peer Reviewer
-        start_date: 2016
-        summary: >
-          ACS Omega · Biochimica et Biophysica Acta – Gene Regulatory Mechanisms ·
-          Journal of Biological Chemistry · Bioscience Reports · Genetics in Medicine ·
-          Nature Communications
+      - label: "Ad Hoc Peer Reviewer (2016–present)"
+        details: "ACS Omega · Biochimica et Biophysica Acta – Gene Regulatory Mechanisms · Journal of Biological Chemistry · Bioscience Reports · Genetics in Medicine · Nature Communications"
 
-      - company: "ASBMB — Interactive Mentoring Activities for Grantsmanship Enhancement (IMAGE)"
-        position: Participant
-        start_date: 2023
-        end_date: 2023
-        summary: Washington, DC
+      - label: "ASBMB IMAGE (Interactive Mentoring Activities for Grantsmanship Enhancement) — Participant (2023)"
+        details: "Washington, DC"
 
-      - company: Madison Area Technical College
-        position: "Panelist, Annual Latino Youth Career and College Fair"
-        start_date: 2014
-        end_date: 2016
+      - label: "Madison Area Technical College — Panelist, Annual Latino Youth Career and College Fair (2014–2016)"
+        details: ""
 
-      - company: University of Wisconsin-Madison
-        position: "Volunteer, 10th Annual UW-Madison Science Expedition"
-        start_date: 2012
-        end_date: 2012
+      - label: "UW-Madison — Volunteer, 10th Annual UW-Madison Science Expedition (2012)"
+        details: ""
 
-      - company: Universidad Central del Caribe
-        position: "Invited Speaker — Breaking Barriers Through Collaboration"
-        start_date: 2019
-        end_date: 2019
+      - label: "Universidad Central del Caribe — Invited Speaker, Breaking Barriers Through Collaboration (2019)"
+        details: ""
 
     Professional Memberships:
-      - name: American Society for Biochemistry and Molecular Biology (ASBMB)
-        summary: "Member since 2006"
+      - label: "American Society for Biochemistry and Molecular Biology (ASBMB)"
+        details: "Member since 2006"
 
-      - name: Society for the Advancement of Hispanics/Chicanos and Native Americans in Science (SACNAS)
-        summary: "Member since 2014"
+      - label: "Society for the Advancement of Hispanics/Chicanos and Native Americans in Science (SACNAS)"
+        details: "Member since 2014"
 
-      - name: American Chemical Society (ACS)
-        summary: "Member since 2001"
+      - label: "American Chemical Society (ACS)"
+        details: "Member since 2001"
 
     Presentations:
-      - title: "Decoding DNA: How Proteins Interpret Genetic Information"
-        authors:
-          - Rodríguez-Martínez JA
-        publisher: "ABRCMS 2025, San Antonio, TX"
-        releaseDate: 2025-11-20
-        summary: Contributed
+      - label: "Decoding DNA: How Proteins Interpret Genetic Information (Nov 2025)"
+        details: "ABRCMS 2025, San Antonio, TX — Contributed"
 
-      - title: "Decoding DNA: How Proteins Interpret Genetic Information"
-        authors:
-          - Rodríguez-Martínez JA
-        publisher: "Seminario de Biología, UPR Mayagüez"
-        releaseDate: 2025-11-06
-        summary: Invited
+      - label: "Decoding DNA: How Proteins Interpret Genetic Information (Nov 2025)"
+        details: "Seminario de Biología, UPR Mayagüez — Invited"
 
-      - title: Non-coding Variants Disrupt GATA4 Regulatory Functions
-        authors:
-          - Rodríguez-Martínez JA
-        publisher: "Journal Club, American Society of Human Genetics"
-        releaseDate: 2025-04-02
-        summary: Invited
+      - label: "Non-coding Variants Disrupt GATA4 Regulatory Functions (Apr 2025)"
+        details: "Journal Club, American Society of Human Genetics — Invited"
 
-      - title: How Proteins Read and Interpret Genetic Information in the Cell
-        authors:
-          - Rodríguez-Martínez JA
-        publisher: "University of Puerto Rico Río Piedras, San Juan, PR"
-        releaseDate: 2025-04-01
-        summary: Invited
+      - label: "How Proteins Read and Interpret Genetic Information in the Cell (Apr 2025)"
+        details: "University of Puerto Rico Río Piedras, San Juan, PR — Invited"
 
-      - title: Impact of Non-coding Mutations on the Function of Cardiac Transcription Factors
-        authors:
-          - Rodríguez-Martínez JA
-        publisher: "Cincinnati Children's Hospital Medical Center, Cincinnati, OH"
-        releaseDate: 2024-05-22
-        summary: Invited
+      - label: "Impact of Non-coding Mutations on the Function of Cardiac Transcription Factors (May 2024)"
+        details: "Cincinnati Children's Hospital Medical Center, Cincinnati, OH — Invited"
 
-      - title: Prioritizing Non-coding Mutations Impacting Gene Regulatory Elements for In Vitro Evaluation
-        authors:
-          - Rodríguez-Martínez JA
-        publisher: "University of Notre Dame, IN"
-        releaseDate: 2023-11-02
-        summary: Invited
+      - label: "Prioritizing Non-coding Mutations Impacting Gene Regulatory Elements for In Vitro Evaluation (Nov 2023)"
+        details: "University of Notre Dame, IN — Invited"
 
-      - title: DNA-binding Properties of Transcription Factors
-        authors:
-          - Rodríguez-Martínez JA
-        publisher: "University of Puerto Rico Cayey, PR"
-        releaseDate: 2023-10-10
-        summary: Invited
+      - label: "DNA-binding Properties of Transcription Factors (Oct 2023)"
+        details: "University of Puerto Rico Cayey, PR — Invited"
 
-      - title: "Factores de Transcripción y la Decodificación del Genoma"
-        authors:
-          - Rodríguez-Martínez JA
-        publisher: ACS Webinars
-        releaseDate: 2023-04-26
-        summary: Invited
+      - label: "Factores de Transcripción y la Decodificación del Genoma (Apr 2023)"
+        details: "ACS Webinars — Invited"
 
-      - title: Evolution and Binding Specificity of SIX Homeodomain Transcription Factors
-        authors:
-          - Rodríguez-Martínez JA
-        publisher: "ASBMB Evolution and Core Processes in Gene Expression, Stowers Institute, Kansas City, MO"
-        releaseDate: 2022-07-24
-        summary: Contributed
+      - label: "Evolution and Binding Specificity of SIX Homeodomain Transcription Factors (Jul 2022)"
+        details: "ASBMB Evolution and Core Processes in Gene Expression, Stowers Institute, Kansas City, MO — Contributed"
 
-      - title: "SIX Homeodomain Transcription Factors & Cardiac Transcription Factor Complexes"
-        authors:
-          - Rodríguez-Martínez JA
-        publisher: "20th Annual Workshop at Bellairs: Encoding and Decoding Function in the Genome, Barbados"
-        releaseDate: 2022-02-06
-        summary: Invited
+      - label: "SIX Homeodomain Transcription Factors & Cardiac Transcription Factor Complexes (Feb 2022)"
+        details: "20th Annual Workshop at Bellairs: Encoding and Decoding Function in the Genome, Barbados — Invited"
 
-      - title: DNA-binding Properties of Transcription Factors
-        authors:
-          - Rodríguez-Martínez JA
-        publisher: "Keynote, Undergraduate Research Symposium, University of Puerto Rico Aguadilla, PR"
-        releaseDate: 2021-03-25
-        summary: Invited
+      - label: "DNA-binding Properties of Transcription Factors (Mar 2021)"
+        details: "Keynote, Undergraduate Research Symposium, University of Puerto Rico Aguadilla, PR — Invited"
 
-      - title: DNA-binding Properties of Transcription Factors
-        authors:
-          - Rodríguez-Martínez JA
-        publisher: "University of Puerto Rico Arecibo, Arecibo, PR"
-        releaseDate: 2021-03-25
-        summary: Invited
+      - label: "DNA-binding Properties of Transcription Factors (Mar 2021)"
+        details: "University of Puerto Rico Arecibo, Arecibo, PR — Invited"
 
-      - title: DNA-binding Properties of Transcription Factors
-        authors:
-          - Rodríguez-Martínez JA
-        publisher: "PRIMER Distinguished Lecture in Biotechnology, Universidad Ana G. Méndez Gurabo, PR"
-        releaseDate: 2021-04-21
-        summary: Invited
+      - label: "DNA-binding Properties of Transcription Factors (Apr 2021)"
+        details: "PRIMER Distinguished Lecture in Biotechnology, Universidad Ana G. Méndez Gurabo, PR — Invited"
 
-      - title: Combinatorial Recognition of DNA by bZIP Transcription Factors
-        authors:
-          - Rodríguez-Martínez JA
-        publisher: "3rd Codebook Consortium Workshop, University of Toronto, ON, Canada"
-        releaseDate: 2019-07-06
-        summary: Invited
+      - label: "Combinatorial Recognition of DNA by bZIP Transcription Factors (Jul 2019)"
+        details: "3rd Codebook Consortium Workshop, University of Toronto, ON, Canada — Invited"
 
-      - title: Combinatorial Recognition of DNA by Human bZIP Transcription Factors
-        authors:
-          - Rodríguez-Martínez JA
-        publisher: "2nd Molecular Biosystems Conference on Eukaryotic Gene Regulation & Functional Genomics, Puerto Varas, Chile"
-        releaseDate: 2019-10-01
-        summary: Contributed
+      - label: "Combinatorial Recognition of DNA by Human bZIP Transcription Factors (Oct 2019)"
+        details: "2nd Molecular Biosystems Conference on Eukaryotic Gene Regulation & Functional Genomics, Puerto Varas, Chile — Contributed"
 
-      - title: Combinatorial Recognition of DNA by bZIP Transcription Factors
-        authors:
-          - Rodríguez-Martínez JA
-        publisher: "Rules of Protein-DNA Recognition, Casa Matemática Oaxaca, Mexico"
-        releaseDate: 2019-06-07
-        summary: Invited
+      - label: "Combinatorial Recognition of DNA by bZIP Transcription Factors (Jun 2019)"
+        details: "Rules of Protein-DNA Recognition, Casa Matemática Oaxaca, Mexico — Invited"
 
-      - title: "DNA Binding Specificity Determinants of Human Pluripotency Transcription Factors Nanog and SOX2"
-        authors:
-          - Rodríguez-Martínez JA
-        publisher: "6th Progenitor Cell Biology Consortium, Stanford University, Stanford, CA"
-        releaseDate: 2014-09-29
-        summary: Contributed
+      - label: "DNA Binding Specificity Determinants of Human Pluripotency Transcription Factors Nanog and SOX2 (Sep 2014)"
+        details: "6th Progenitor Cell Biology Consortium, Stanford University, Stanford, CA — Contributed"
 
-      - title: Prevention of Benzyl Alcohol-induced Aggregation of Chymotrypsinogen by PEGylation
-        authors:
-          - Rodríguez-Martínez JA
-        publisher: "Southeastern Regional Meeting, American Chemical Society, San Juan, PR"
-        releaseDate: 2009-10-23
-        summary: Contributed
+      - label: "Prevention of Benzyl Alcohol-induced Aggregation of Chymotrypsinogen by PEGylation (Oct 2009)"
+        details: "Southeastern Regional Meeting, American Chemical Society, San Juan, PR — Contributed"
 
-      - title: "Increasing α-Chymotrypsin Thermodynamic Stability upon Covalent Modification with Poly(ethylene glycol)"
-        authors:
-          - Rodríguez-Martínez JA
-        publisher: "28th Latin American Chemical Congress, San Juan, PR"
-        releaseDate: 2008-07-30
-        summary: Contributed
+      - label: "Increasing α-Chymotrypsin Thermodynamic Stability upon Covalent Modification with Poly(ethylene glycol) (Jul 2008)"
+        details: "28th Latin American Chemical Congress, San Juan, PR — Contributed"
